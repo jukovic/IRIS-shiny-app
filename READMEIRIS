@@ -1,0 +1,10 @@
+R Shiny - IRIS dataset
+
+Simple Shiny app which shows four Distribution Plots for Length and Width of Petals and Sepals after one of the IRIS Species is selected in the sidebar. The dataset used for this project is IRIS which is available in R.
+
+About the IRIS Dataset
+
+IRIS data set gives measurements in centimeters of the variables sepal length and width and petal length and width, respectively, for 50 flowers from each of three species of iris.
+
+The three species of Iris are setosa, versicolor and virginica.
+The Sepals are the lower, or outermost, part of the flower (green and leaf-like). The Petals are colored segments of the corolla of a flower.
